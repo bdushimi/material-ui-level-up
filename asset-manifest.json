@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/material-ui-level-up/static/js/main.bb265ae6.chunk.js",
+    "main.js.map": "/material-ui-level-up/static/js/main.bb265ae6.chunk.js.map",
+    "runtime-main.js": "/material-ui-level-up/static/js/runtime-main.df3f50eb.js",
+    "runtime-main.js.map": "/material-ui-level-up/static/js/runtime-main.df3f50eb.js.map",
+    "static/js/2.9d6d976b.chunk.js": "/material-ui-level-up/static/js/2.9d6d976b.chunk.js",
+    "static/js/2.9d6d976b.chunk.js.map": "/material-ui-level-up/static/js/2.9d6d976b.chunk.js.map",
+    "index.html": "/material-ui-level-up/index.html",
+    "precache-manifest.e5e97cd9c904af67aaf800cc910d3a75.js": "/material-ui-level-up/precache-manifest.e5e97cd9c904af67aaf800cc910d3a75.js",
+    "service-worker.js": "/material-ui-level-up/service-worker.js",
+    "static/js/2.9d6d976b.chunk.js.LICENSE.txt": "/material-ui-level-up/static/js/2.9d6d976b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3f50eb.js",
+    "static/js/2.9d6d976b.chunk.js",
+    "static/js/main.bb265ae6.chunk.js"
+  ]
+}
